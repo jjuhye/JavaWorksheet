@@ -1,0 +1,2 @@
+INDEX VERSION 1.131+E:\jh_GitHub\JavaWorksheet\.metadata\.plugins\org.eclipse.jdt.core
+3288366959.index
